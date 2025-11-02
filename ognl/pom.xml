@@ -5,7 +5,7 @@
     <parent>
         <groupId>ognl</groupId>
         <artifactId>ognl-parent</artifactId>
-        <version>3.5.0-BETA1</version>
+        <version>3.5.0-SNAPSHOT</version>
     </parent>
 
     <artifactId>ognl</artifactId>
@@ -27,7 +27,7 @@
         <connection>scm:git:git@github.com:orphan-oss/ognl.git</connection>
         <url>https://github.com/orphan-oss/ognl</url>
         <developerConnection>scm:git:git@github.com:orphan-oss/ognl.git</developerConnection>
-        <tag>v3.5.0-BETA1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
