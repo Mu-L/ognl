@@ -15,6 +15,33 @@
     <name>OGNL Core</name>
     <description>OGNL - Core module of Object Graph Navigation Library</description>
 
+    <url>https://github.com/orphan-oss/ognl</url>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <connection>scm:git:git@github.com:orphan-oss/ognl.git</connection>
+        <url>https://github.com/orphan-oss/ognl</url>
+        <developerConnection>scm:git:git@github.com:orphan-oss/ognl.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
+    <developers>
+        <developer>
+            <id>lukaszlenart</id>
+            <email>lukasz.lenart@gmail.com</email>
+            <roles>
+                <role>Lead maintainer</role>
+            </roles>
+        </developer>
+    </developers>
+
     <dependencies>
         <dependency>
             <groupId>org.javassist</groupId>

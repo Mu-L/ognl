@@ -41,7 +41,7 @@
 
     <inceptionYear>2025</inceptionYear>
 
-    <url>https://github.com/orphan-oss/ognl/orphan/ognl/</url>
+    <url>https://github.com/orphan-oss/ognl</url>
 
     <licenses>
         <license>
@@ -53,7 +53,7 @@
 
     <scm>
         <connection>scm:git:git@github.com:orphan-oss/ognl.git</connection>
-        <url>git@github.com:orphan-oss/ognl.git</url>
+        <url>https://github.com/orphan-oss/ognl</url>
         <developerConnection>scm:git:git@github.com:orphan-oss/ognl.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
